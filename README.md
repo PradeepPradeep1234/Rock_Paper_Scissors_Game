@@ -3,6 +3,10 @@
 A simple and interactive Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. This beginner-friendly project allows users to play against the computer, demonstrating the use of conditional logic, event handling, and DOM manipulation.
 
 ---
+## 🔗 Live Demo
+[Click here to view the live site](https://my-js-app-w1o9.onrender.com)
+
+---
 
 ## 🧠 Game Rules
 
